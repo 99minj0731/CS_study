@@ -4,7 +4,15 @@
 <summary> Promise의 개념에 대해 설명해주세요. </summary>
 </br>
 Promise는 비동기 연산의 상태를 나타내는 객체입니다.  
-비동기 처리가 진행중이면 pending, 성공이면 fulfilled, 실패면 rejected라는 상태값을 가집니다. Promise는 비동기 프로그래밍을 then과 catch를 통해 간결하게 표현할 수 있도록 ES6에서 새로 도입되었습니다.
+비동기 처리가 진행중이면 pending, 성공이면 fulfilled, 실패면 rejected라는 상태값을 가집니다. Promise는 비동기 프로그래밍을 then과 catch를 통해 간결하게 표현할 수 있도록 ES6에서 새로 도입되었습니다.  
+</br></br>
+
+- Promise  
+비동기 작업을 처리하고, 그 상태를 담는 객체  
+- then/catch  
+Promise 객체에서 결과를 처리하는 메서드
+- async/await  
+Promise를 더 쉽게 쓸 수 있게 해주는 문법
 </br></br>
 </details>
 
